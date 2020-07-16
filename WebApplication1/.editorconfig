@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CA2000: 丢失范围之前释放对象
+dotnet_diagnostic.CA2000.severity = none
+
+# IDE0005: Using 指令是不需要的。
+dotnet_diagnostic.IDE0005.severity = none
